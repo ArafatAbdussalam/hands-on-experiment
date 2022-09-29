@@ -9,6 +9,7 @@
 
 ## In this course, a pull request was already opened. All I needed to do was to edit the index.md file in the pull request before merging to the main branch
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Communicate using Markdown
 
