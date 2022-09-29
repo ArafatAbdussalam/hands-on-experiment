@@ -13,6 +13,11 @@
 <ReactComponents props = {thisIsAProp} />
 ```
 
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Self Introduction
+
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Communicate using Markdown
